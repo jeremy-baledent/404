@@ -1,0 +1,69 @@
+h1{
+	text-align:center;
+	text-shadow: 2px 2px 4px #000000;
+	
+	
+	
+}
+
+div{
+	text-align:center;
+
+}
+	
+	
+
+	
+	
+	
+
+body{
+	background-color:yellow;
+	
+}
+
+.p1{
+	
+	text-align:center;
+	text-shadow: 20px 20px 8px #FF0000;
+	font-size: 40px;
+	font-style: italic;
+}
+	
+.p2{
+	
+	text-align:center;
+	text-shadow: 20px 20px 8px #FF0000;
+	font-size: 30px;
+	font-style: italic;
+}
+.p3{
+	
+	text-align:center;
+	text-shadow: 20px 20px 8px #FF0000;
+	font-size: 20px;
+	font-style: italic;
+}
+.p4{
+	
+	text-align:center;
+	text-shadow: 20px 20px 8px #FF0000;
+	font-size: 10px;
+	font-style: italic;
+}
+.p5{
+	
+	text-align:center;
+	text-shadow: 20px 20px 8px #FF0000;
+	font-size: 5px;
+	font-style: italic;
+}
+.p6{
+	
+	text-align:center;
+	text-shadow: 20px 20px 8px #FF0000;
+	font-size: 3px;
+	font-style: italic;
+}
+
+
